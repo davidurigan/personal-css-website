@@ -1,0 +1,173 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #40514E;
+}
+
+h1{
+    margin: 0 auto 0 auto;
+    padding-top: 100px;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}  
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+h3{
+    color: #11999E; 
+}
+
+a{
+    color: #11999E; 
+    margin: 20px;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+ 
+span{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+hr{
+    clear: both;
+    margin: 50px auto;
+    border: none;
+    border-top: 7px dotted gray;
+    width: 5%;
+}
+
+img{
+    margin: 50px auto;
+}
+
+.name{
+    font-family: 'Great Vibes', cursive;
+}
+
+.top-container{
+    position: relative;
+    background-color: #EAF6F6;
+    margin: 0px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 25%;
+    top: 5%;
+    width: 10%;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 25%;
+
+}
+
+.mountain{
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 12.5rem auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.first-skill{
+    width: 15rem;
+    margin: 0 30px 0 0;
+    float: left;
+    background-color: #11999E;
+    border-radius: 100%;
+}
+
+.second-skill{
+    width: 15rem;
+    height: 15rem;
+    margin: 0 0 0 30px;
+    float: right;
+    background-color: #11999E;
+    border-radius: 100%;
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin: 50px 0 0 0;
+    padding: 50px;
+}
+
+.copyright{
+    color: #EAF6F6;
+    margin-bottom: 0;
+    padding: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 19;
+    -moz-border-radius: 19;
+    border-radius: 19px;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #6fb3eb;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+} 
+  
+.btn:hover {
+    background: #0079fa;
+    text-decoration: none;
+}
+
+.local{
+    margin-bottom: 30px;
+}
+
+.links{
+    width: 100%;
+}
+
+.twitter{
+    display: inline-block;
+    width: 10%;
+}
+
+.linkedin{
+    display: inline-block;
+    width: 20%;
+    text-align: right;
+}
+
+.site{
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+}
+
+#twitter{
+    margin: 0 auto;
+}
+
+#site{
+    margin: 0;
+
+    text-align: right;
+}
+
+#linkedin{
+    margin: 0;
+}
